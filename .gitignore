@@ -1,0 +1,9 @@
+# Ignore les fichiers d'environnement
+.env
+
+# Ignore le répertoire des modules Node.js
+node_modules/
+
+# Ignore le fichier valo-rank.zip
+valo-rank.zip
+

@@ -1,0 +1,11 @@
+{
+    "bot": {
+        "name": "Valo-Rank",
+        "logo": "https://discord.com/assets/0048cbfdd0b3ef186d22.png",
+        "discord_serv": "https://discord.gg/ZkEVFFMvXg",
+        "thumbnails": {
+            "default": "https://media.discordapp.net/attachments/895747154352685137/1250972892481720391/b7cf62846ae6ae5e96b35cf9d5e05a7c.png?ex=666ce2cb&is=666b914b&hm=af998b06362fed7fad3e51c447f4a9443f754ea03895a2242c7a802ff3f17d44&=&format=webp&quality=lossless&width=800&height=600",
+            "rules": "https://media.discordapp.net/attachments/895747154352685137/1250889158063554663/448b5fbd1ffe2405d719.png?ex=666c94cf&is=666b434f&hm=45c3f3750f9ff0a83ab7513d385aadf67924c4f68038e8caefeee246c6d0910b&=&format=webp&quality=lossless"
+        }
+    }
+}
