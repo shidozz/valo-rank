@@ -7,3 +7,8 @@ node_modules/
 # Ignore le fichier valo-rank.zip
 valo-rank.zip
 
+package-lock.json
+
+Dockerfile
+
+.gitignore
